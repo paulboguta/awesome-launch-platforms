@@ -50,6 +50,8 @@ Beyond Product Hunt: this is the comprehensive list of **launch platforms** for 
 - **[MicroLaunch](https://microlaunch.net)** · DR 30 · dofollow · free — Daily micro-launches.
 - **[Open Launch](https://openlaunch.ai)** · DR 30 · nofollow · free
 - **[Launch Vault](https://www.launchvault.dev)** · DR 30 · nofollow · free
+- **[ProductDirs](https://productdirs.com/)** · emerging · dofollow · free — AI tools and tech product discovery directory with daily launches and curated reviews.
+- **[ThisTools](https://thistools.app/)** · emerging · dofollow · free — Tech product discovery platform for daily launches and upvotes.
 - **[NextGen Tools](https://www.nxgntools.com)** · DR 25 · conditional dofollow · free + paid tier
 
 ## How to Submit Efficiently
