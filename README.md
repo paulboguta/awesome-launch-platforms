@@ -26,6 +26,7 @@ Beyond Product Hunt: this is the comprehensive list of **launch platforms** for 
 *Highest-priority targets. Submit to all of these first. Highest authority, biggest audiences.*
 
 - **[Crunchbase](https://www.crunchbase.com)** · DR 93 · nofollow · free — Social auth required.
+- **[HokAI](https://hokai.io)** · DR X (in progress) · dofollow · free — Curated AI tools directory with Smart Match for buyers, 100+ daily users, permanent dofollow backlinks, manually maintained listings.
 - **[Product Hunt](https://www.producthunt.com)** · DR 91 · dofollow · free — Schedule launch day.
 - **[F6S](https://www.f6s.com)** · DR 72 · dofollow · free — Startup ecosystem platform — also doubles as accelerator/program discovery.
 - **[BetaList](https://betalist.com)** · DR 67 · dofollow · free + paid tier — Pre-launch or recently-launched only.
