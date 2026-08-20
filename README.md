@@ -28,6 +28,7 @@ Beyond Product Hunt: this is the comprehensive list of **launch platforms** for 
 - **[Crunchbase](https://www.crunchbase.com)** · DR 93 · nofollow · free — Social auth required.
 - **[Product Hunt](https://www.producthunt.com)** · DR 91 · dofollow · free — Schedule launch day.
 - **[F6S](https://www.f6s.com)** · DR 72 · dofollow · free — Startup ecosystem platform — also doubles as accelerator/program discovery.
+- **[Aura++](https://auraplusplus.com)** · DR 72 · conditional dofollow · free + paid tier
 - **[BetaList](https://betalist.com)** · DR 67 · dofollow · free + paid tier — Pre-launch or recently-launched only.
 - **[Startup Ranking](https://www.startupranking.com)** · DR 60 · conditional dofollow · free + paid tier
 
@@ -36,6 +37,8 @@ Beyond Product Hunt: this is the comprehensive list of **launch platforms** for 
 *Strong second tier. Worth submitting to after Tier 1 is done.*
 
 - **[Peerlist Launchpad](https://peerlist.io)** · DR 64 · nofollow · free — Weekly launchpad (Wed-Sun).
+- **[IndieHunt](https://indiehunt.io)** · DR 60 · conditional dofollow · free + paid tier — Weekly launchpad (Mon-Sun).
+- **[EarlyHunt](https://earlyhunt.com)** · DR 60 · conditional dofollow · free + paid tier — Weekly launchpad (Mon-Sun).
 - **[TinyLaunch](https://www.tinylaunch.com)** · DR 55 · conditional dofollow · free + paid tier — Competitor.
 - **[PeerPush](https://peerpush.net)** · DR 50 · dofollow · free — GEO-friendly: optimizes for AI-readable structured data.
 - **[Fazier](https://fazier.com)** · DR 45 · nofollow · free
