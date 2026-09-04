@@ -36,6 +36,7 @@ Beyond Product Hunt: this is the comprehensive list of **launch platforms** for 
 *Strong second tier. Worth submitting to after Tier 1 is done.*
 
 - **[Peerlist Launchpad](https://peerlist.io)** · DR 64 · nofollow · free — Weekly launchpad (Wed-Sun).
+- **[SaaSCity](https://saascity.io)** · DR 59 · dofollow · free — Gamified SaaS/AI directory; every listing becomes a building on an isometric city map.
 - **[TinyLaunch](https://www.tinylaunch.com)** · DR 55 · conditional dofollow · free + paid tier — Competitor.
 - **[PeerPush](https://peerpush.net)** · DR 50 · dofollow · free — GEO-friendly: optimizes for AI-readable structured data.
 - **[Fazier](https://fazier.com)** · DR 45 · nofollow · free
