@@ -51,6 +51,7 @@ Beyond Product Hunt: this is the comprehensive list of **launch platforms** for 
 - **[Open Launch](https://openlaunch.ai)** · DR 30 · nofollow · free
 - **[Launch Vault](https://www.launchvault.dev)** · DR 30 · nofollow · free
 - **[NextGen Tools](https://www.nxgntools.com)** · DR 25 · conditional dofollow · free + paid tier
+- **[DiscoverLaunches](https://discoverlaunches.com)** · DR 27 · conditional dofollow · free + paid tier — Weekly launch board with permanent product pages.
 
 ## How to Submit Efficiently
 
